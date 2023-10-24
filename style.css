@@ -17,3 +17,8 @@ div {
 .content {
   width: 65vw;
 }
+
+.bg-image {
+  width: inherit;
+  height: inherit;
+}
