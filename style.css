@@ -9,3 +9,11 @@ body {
 div {
   height: 100vh;
 }
+
+.background {
+  width: 35vw;
+}
+
+.content {
+  width: 65vw;
+}
