@@ -1,9 +1,16 @@
+@font-face {
+  font-family: "Norse Bold";
+  src: url("./fonts/Norse-Bold.otf");
+}
+
 * {
   box-sizing: border-box;
 }
 
 body {
   display: flex;
+  margin: 0;
+  padding: 0;
 }
 
 div {
@@ -11,6 +18,7 @@ div {
 }
 
 .background {
+  position: relative;
   width: 35vw;
 }
 
@@ -21,4 +29,27 @@ div {
 .bg-image {
   width: inherit;
   height: inherit;
+}
+
+.logo-header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  background-color: rgba(0, 0, 0, 0.5);
+  width: inherit;
+  height: 150px;
+  color: white;
+  top: 160px;
+}
+
+.logo-image {
+  width: 100px;
+  height: auto;
+}
+
+.logo-text {
+  font-family: "Norse Bold", sans-serif;
+  font-size: 6rem;
+  height: auto;
 }
