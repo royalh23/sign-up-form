@@ -64,15 +64,9 @@ body {
   font-size: 0.8rem;
 }
 
-.content {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-}
-
 .content-text {
-  width: 430px;
+  max-width: 640px;
   font-family: Arial, Helvetica, sans-serif;
   font-weight: bold;
-  font-size: 1.3rem;
+  font-size: 1.25rem;
 }
