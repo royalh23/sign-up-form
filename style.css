@@ -63,3 +63,9 @@ body {
   text-align: center;
   font-size: 0.8rem;
 }
+
+.content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
