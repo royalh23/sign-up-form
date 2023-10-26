@@ -14,12 +14,12 @@ body {
 }
 
 div {
-  height: 100vh;
+  height: max(100vh, 700px);
 }
 
 .background {
   position: relative;
-  width: 35vw;
+  width: max(35vw, 400px);
 }
 
 .content {
