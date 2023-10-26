@@ -13,7 +13,7 @@ body {
   padding: 0;
 }
 
-div {
+.background, .content {
   height: max(100vh, 700px);
 }
 
