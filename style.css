@@ -78,13 +78,13 @@ body {
   justify-content: center;
   align-items: flex-start;
   gap: 25px;
-  background-color: rgb(253, 253, 253);
+  background-color: #f9fafb;
 }
 
 form {
   width: 100%;
   border: 1px solid #f4f5f9;
-  box-shadow: 0 4px 5px rgb(220, 220, 220);
+  box-shadow: 0 4px 5px rgb(210, 210, 210);
   background-color: white;
   padding: 20px 0;
   margin-top: 38px;
