@@ -67,7 +67,7 @@ body {
 .content-text {
   max-width: 660px;
   font-weight: bold;
-  font-size: 1.25rem;
+  font-size: 1.3rem;
   padding: 0 0 0 40px;
 }
 
@@ -94,7 +94,7 @@ form {
   display: flex;
   flex-wrap: wrap;
   column-gap: 65px;
-  max-width: 565px;
+  max-width: 585px;
   padding: 0 0 0 40px;
 }
 
@@ -105,8 +105,8 @@ form {
 }
 
 .form-inputs input {
-  width: 230px;
-  height: 25px;
+  width: 240px;
+  height: 30px;
   border: 1.5px solid #E5E7EB;
   border-radius: 3px;
 }
@@ -124,7 +124,7 @@ form {
 .form-inputs label {
   font-weight: 600;
   color: #28323f;
-  font-size: 0.65rem;
+  font-size: 0.7rem;
   margin-bottom: 2px;
   letter-spacing: 0.05rem;
 }
