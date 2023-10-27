@@ -127,3 +127,15 @@ form {
   color: #1f2937;
   margin-bottom: 8px;
 }
+
+button {
+  margin-left: 40px;
+  padding: 11px 40px;
+  background-color: #596D48;
+  color: white;
+  border: 0;
+  border-radius: 6px;
+  font-size: 1rem;
+  font-weight: bold;
+  cursor: pointer;
+}
